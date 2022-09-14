@@ -2,11 +2,10 @@
 /**
  * _islower - will check whether a letter is lower case
  * Return: 1 if true and 0 otherwise
+ * @c: the character to check
  */
-int _islower(void)
+int _islower(int c)
 {
-	int c;
-	/* c is the argument to be passed into the function*/
 
 	if (c >= 'a' && c <= 'z')
 	{
