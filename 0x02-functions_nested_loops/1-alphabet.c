@@ -1,9 +1,5 @@
 #include "main.h"
-/**
- * main - prints the alphabet
- * Return: always 0 (success)
- *
- */
+
 int main(void)
 {
 	print_alphabet();
