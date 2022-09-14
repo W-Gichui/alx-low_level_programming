@@ -1,13 +1,7 @@
 #include "main.h"
 
-int main(void)
-{
-	print_alphabet();
-	return (0);
-}
-
 /**
- *  print_alphabet - print the alphabet
+ * print_alphabet - print the alphabet
  * Return: 0
  */
 void print_alphabet(void)

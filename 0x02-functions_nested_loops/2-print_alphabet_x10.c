@@ -1,18 +1,5 @@
 #include <stdio.h>
 /**
- * main - prints the alphabet 10 times
- * Return: always 0 (success)
- *
- */
-void print_alphabet_x10(void);
-
-int main(void)
-{
-	print_alphabet_x10();
-	return (0);
-}
-
-/**
  * print_alphabet_x10 - will print the alphabet 10 times
  * Return: 0
  */
