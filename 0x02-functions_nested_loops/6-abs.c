@@ -4,9 +4,9 @@
  * Return: the number in absolute value
  * @a : integer to be checked
  */
-int _abs(int a)
+int _abs(int)
 {
-	int a = | a |;
+	int r = |a|;
 
 	return (r);
 }
