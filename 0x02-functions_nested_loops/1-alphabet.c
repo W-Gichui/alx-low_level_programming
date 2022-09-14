@@ -1,11 +1,9 @@
-#include <stdio.h>
+#include "main.h"
 /**
  * main - prints the alphabet
  * Return: always 0 (success)
  *
  */
-void print_alphabet(void);
-
 int main(void)
 {
         print_alphabet();
@@ -22,8 +20,8 @@ void print_alphabet(void)
 
 	for (c = 'a'; c <= 'z'; c++)
 	{
-		putchar(c);
+		_putchar(c);
 	}
-		putchar('\n');
+		_putchar('\n');
 
 }
