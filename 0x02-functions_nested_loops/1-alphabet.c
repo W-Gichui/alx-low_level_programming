@@ -6,12 +6,12 @@
  */
 int main(void)
 {
-        print_alphabet();
+	print_alphabet();
 	return (0);
 }
 
 /**
- *void print_alphabet(void) - will print the alphabet
+ *  print_alphabet - print the alphabet
  * Return: 0
  */
 void print_alphabet(void)
