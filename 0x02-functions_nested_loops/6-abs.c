@@ -6,5 +6,6 @@
  */
 int _abs(int a)
 {
-	return (|a|);
+	int r = |a|;
+	return (r);
 }
