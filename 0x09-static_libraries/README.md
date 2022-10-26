@@ -1,1 +1,1 @@
-Tasks on static libraries
+project on static libraries
